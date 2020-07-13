@@ -1,6 +1,6 @@
 /*
 Core.js is a part of c19_bd project
-github.com/NurTasin/c19_bd/core.js
+nurtasin.github.io/c19_bd/core.js
 */
 let totalCases=0;
 let totalDeath=0;
